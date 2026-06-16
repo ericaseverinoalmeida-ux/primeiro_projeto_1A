@@ -1,6 +1,10 @@
 body{
     background-color:#1591DC;
 }
+header{
+    display: flex;
+    align-items: center;
+}
 h1{
     color: #2C5EAD;
     font-size: 60px;
